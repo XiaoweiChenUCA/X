@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaowei Chen (陈小维)"
 title_separator          : "-"
 name                     : &name "Xiaowei Chen"
-description              : &description "Research Assistant at Oklahoma State University"
+description              : &description "Assistant Professor at University of Central Arkansas"
 url                      : https://xiaoweichen.github.io/X # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoweichen.github.io/X"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=too6ZN8AAAAJ&hl=en"
-  email            : "xchen8897@gmail.com"
+  email            : "xchen16@uca.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
